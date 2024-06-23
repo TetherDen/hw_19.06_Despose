@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hw_19.06_Despose/1.0.0": {
+        "runtime": {
+          "hw_19.06_Despose.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw_19.06_Despose/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
